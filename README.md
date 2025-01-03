@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="left">
+ $\color{#ff0100}{\textbf{“ I … am 𝙈𝙄𝙇𝙂𝙍𝘼𝙈’s prison guard. ”}}$ <br/>
+  </p>
 
-<!--
-**ESM1LGRAM/ESM1LGRAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://files.catbox.moe/5b9qu4.png" data-canonical-src="(https://files.catbox.moe/5b9qu4.png)"
+</p>
+  
+  <p align="center">   
+$\color{#2e2e3c}{\textbf{ “ There’s 𝘯𝘰𝘵𝘩𝘪𝘯𝘨 more to me than that. ”}}$
+</p>
+<p align="center">
+<img src="https://files.catbox.moe/45uwps.png" data-canonical-src="(https://files.catbox.moe/45uwps.png)"
+</p>
