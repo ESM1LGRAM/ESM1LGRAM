@@ -15,3 +15,10 @@ $\color{#2e2e3c}{\textbf{ “ There’s 𝘯𝘰𝘵𝘩𝘪𝘯𝘨 more to me 
 
 <p align="center">
 ⠀⠀⠀ <img src="https://files.catbox.moe/t248yt.png" data-canonical-src="(https://files.catbox.moe/t248yt.png)"width="500">  <img src="https://files.catbox.moe/nh5ab2.png" data-canonical-src="(https://files.catbox.moe/nh5ab2.png)"width="200">
+
+<p align="center">
+<img src="https://files.catbox.moe/iaovz7.png" data-canonical-src="(https://files.catbox.moe/iaovz7.png)"
+</p>
+  <p align="center">   
+$\color{#2e2e3c}{\textbf{Rentry coming soon, follow my main @thecitysnight}}$
+</p>
